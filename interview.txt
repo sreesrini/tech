@@ -1,0 +1,43 @@
+1. Broken links in selenium : if we get response code>=400
+2. properties file in selenium : 
+3. reusable components in framework: login,password,url,username written in a seperate method
+4. maintain page elements(web elements): page object model,we are using 2 applications simultaneously, used 2 packages 2 apps, several clase each page
+ by element for tetcase. 
+5. pom advantage : reusability, if we want to use particular web element in 100 test cases, just pass the variable.
+6. advantages of tetsng:
+7. testng listners:
+8. selenium desire capabilities: configure what type of browser,version, operating system
+9. headless mode of testing:
+10. challenges faced in automation testing: giving data, stale element exceptions,to hadle popups
+11. how frequently run automation cases: 70 to 80% regression cases weekly
+12. get the results in reports, what kind of reports in framework: extent reports(html, png format).
+13. disadvantage of agile process: frequent requirement changes
+14. n test cases, ensure how u have completed all test cases:
+15: techniques of tets case writing:
+16. did you miss any bugs: 
+17. necessary actions when found bug in production:
+18. change requet and feature request:
+19. java- inheritance, collections, set and list, final key,final and finally,
+20. wait,DOM,xpath in selenium:
+21. super keyword, thread.sleep in java
+22. thread.sleep argument as -1000: illegal argument exception
+23. pom, In pom how do you declare the element:
+24. which automation test cases should be picked:
+25: type of popups: window based& web based,allow.accept, allow.dismiss, 
+26. in how many ways we can launch an url in selenium: driver.get() & driver.navigate()
+27. rules of method overriding:
+28. when u will say my automation is enough and i cannot proceed now:
+29: when u will do in leisure time before coming requirements: code optimization
+30. java class with a name of integer: integer is a keyword, we cannot create class by using keyword.
+31. can we use non static methods in method overriding:
+32. in how many ways we can ue the drop down values in selenium:
+33. conditional signoff:
+34. error seeding:
+35. tracebility matrix:
+36. defect masking:
+37. synchronisation in selenium:
+38. procedure to take screenshot:
+39. assert and soft assert:
+40. if we dont do initialisation step in page factory exception: null pointer exception
+41. automating api difficulties, how u are automating api:
+42. 
