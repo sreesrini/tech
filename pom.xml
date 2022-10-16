@@ -5,7 +5,7 @@
   <artifactId>mahindra</artifactId>
   <packaging>war</packaging>
   <version>3.0.2</version>
-     <name>mahindra Maven Webapp</name>
+     <name>tehMahendra</name>
   <url>http://maven.apache.org</url>
   	
   <properties>
