@@ -14,8 +14,8 @@
 	<sonar.dynamicAnalysis>reuseReports</sonar.dynamicAnalysis>
 	<sonar.jacoco.reportPath>${project.build.directory}/coverage-reports/jacoco-ut.exec</sonar.jacoco.reportPath>
 	<jacoco-maven-plugin.version>0.7.4.201502262128</jacoco-maven-plugin.version>
-	<sonar.host.url>http://65.0.75.37:9000/</sonar.host.url>
-	<sonar.login>55c8c139feadad2226dd4baf055555b26ad881c5</sonar.login>
+	<sonar.host.url>http://192.168.0.8:9000/</sonar.host.url>
+	<sonar.login>92cd9327186d6fe8bed561b3f037795ac7948a3b</sonar.login>
 </properties>
 
   <dependencies>
