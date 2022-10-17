@@ -28,7 +28,7 @@
 </dependencies>
 <distributionManagement>
   <repository>
-    <id>admin</id>
+    <id>technew</id>
     <url>http://localhost:8081/repository/technew</url>
   </repository>
 </distributionManagement>
