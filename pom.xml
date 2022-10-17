@@ -29,7 +29,7 @@
 </dependencies>
 <distributionManagement>
   <repository>
-    <id>technew</id>
+    <id>Full Tech</id>
     <url>http://localhost:8081/repository/technew</url>
   </repository>
 </distributionManagement>
